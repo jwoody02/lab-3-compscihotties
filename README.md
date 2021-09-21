@@ -1,11 +1,10 @@
-
-
-Project Team Members: Jack Higgins
-
+Project Team Members:
+Jordan Wood
+Clay Fricke
+Logan Chayet
+Jack Higgins
+Preston 
 blah blah blah main branch
-
-Corrected the changes made by Jack
-
 
 Application Description:
 
