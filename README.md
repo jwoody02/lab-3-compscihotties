@@ -1,7 +1,11 @@
-Project Team Members:
-Jordan Wood
-=======
+
+
+Project Team Members: Jack Higgins
+
 blah blah blah main branch
+
+Corrected the changes made by Jack
+
 
 Application Description:
 
