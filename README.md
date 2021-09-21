@@ -1,3 +1,9 @@
+Project Team Members:
+Jordan Wood
+Clay Fricke
+Logan Chayet
+Jack Higgins
+Preston 
 blah blah blah main branch
 
 Application Description:
