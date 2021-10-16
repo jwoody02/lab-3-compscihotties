@@ -74,6 +74,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
         
 //        searchResultsTableView.frame = CG
         //SPOTIFY SHIT (gets environment variables)
+        print("* client id: \(UIApplication.clientId ?? "")")
         spotify = SpotifyAPI(
             authorizationManager: AuthorizationCodeFlowManager(
                 clientId: UIApplication.clientId ?? "", clientSecret: UIApplication.clientSecret ?? ""
