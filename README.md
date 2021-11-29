@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Hello New Line New Change 
-Project Team Members: Logan Chayet
-=======
 =======
 Project Team Members:
 Jordan Wood
@@ -9,8 +5,14 @@ Clay Fricke
 Logan Chayet
 Jack Higgins
 Preston 
->>>>>>> ea6f956cf202ad821d56cb649a4bf38755aa3c2c
-blah blah blah main branch
+
+REPO ORGANIZATION:
+
+
+
+HOW TO RUN AND ACCESS APP:
+
+
 
 Application Description:
 
